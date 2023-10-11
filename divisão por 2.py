@@ -13,3 +13,6 @@ if  digite_um_numero % 2 == 0:
     print('O numero que você digitou é par (ou seja, a divisão desse número por 2 tem resto igual a 0)')
 else:
     print('o numero que você digitou é impar')
+
+
+ print('teste de commit')
